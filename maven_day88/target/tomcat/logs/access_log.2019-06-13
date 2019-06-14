@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [13/Jun/2019:08:11:02 +0800] "GET /maven_day88 HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [13/Jun/2019:08:11:03 +0800] "GET /maven_day88/ HTTP/1.1" 200 52 http-bio-8080-exec-3 930
+0:0:0:0:0:0:0:1 - - [13/Jun/2019:08:11:03 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [13/Jun/2019:08:11:27 +0800] "GET /maven_day88/items/find HTTP/1.1" 200 754 http-bio-8080-exec-5 1424
+0:0:0:0:0:0:0:1 - - [13/Jun/2019:20:39:07 +0800] "GET /maven_day88 HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [13/Jun/2019:20:39:08 +0800] "GET /maven_day88/ HTTP/1.1" 200 52 http-bio-8080-exec-3 149
